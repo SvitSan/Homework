@@ -1,4 +1,13 @@
 h1{
-    color: aqua;
-    font-size: 30px;
+    color:red ;
+    font-size: 50px;
+}
+
+img{
+    height: 700px;
+    background-image: url(image.jpeg);
+    background-repeat: no-repeat;
+    background-size: center;
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
